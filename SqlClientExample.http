@@ -1,0 +1,6 @@
+@SqlClientExample_HostAddress = http://localhost:5244
+
+GET {{SqlClientExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
